@@ -1,8 +1,8 @@
 {
-    "name": "Send Message with Webhook",
-    "version": "0.x.x",
-    "description": "Send a message with a webhook.",
-    "author": "TheShadowGamer#7931",
+    "name": "MentionManager",
+    "version": "1.0.0",
+    "description": "Gives you control over who you ping in your messages",
+    "author": "MMK21#2121",
     "license": "MIT"
   }
   
