@@ -1,2 +1,3 @@
-# Send Message with Webhook
- This powercord plugin lets you send messages with a webhook.
+# MentionManager
+
+A WIP PowerCord plugin, based on TheShadowGamer/Send-Message-with-Webhook.
